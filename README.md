@@ -16,7 +16,7 @@ An intelligent web application that helps students and job seekers discover suit
   Users can enter their job preferences manually or upload a resume (PDF).
   
 - **Real-Time or Demo Job Data**  
-  Fetch live job postings from APIs (Google Jobs, LinkedIn Jobs via RapidAPI) or use local demo data.
+  Fetch live job postings from APIs (Google Jobs, LinkedIn Jobs via RapidAPI) or load data during intervals and check for the job recommendations.
 
 - **LLM-Powered Recommendations**  
   Uses **LangChain + Groq LLaMA3-70B** for ranking the best-matching jobs.
