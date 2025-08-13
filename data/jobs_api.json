@@ -1,0 +1,2222 @@
+
+[
+    {
+        "id": "1846920639",
+        "date_posted": "2025-08-11T00:22:15",
+        "date_created": "2025-08-11T00:35:15.987252",
+        "title": "Data Analyst - R/Python",
+        "organization": "CNR EdTech",
+        "organization_url": "https://www.linkedin.com/company/cnr-edtech",
+        "date_validthrough": "2025-09-10T00:22:15",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "IN",
+                    "addressLocality": "Greater Chennai Area",
+                    "addressRegion": null,
+                    "streetAddress": null
+                },
+                "latitude": 13.090929,
+                "longitude": 80.21522
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-r-python-at-cnr-edtech-4282975816",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF_e3JITeu7-Q/company-logo_200_200/company-logo_200_200/0/1723605705699?e=2147483647&v=beta&t=XZI5MBIaS9YaJtGPMHgkH52kx9eb5N06CHKfUzzpbSk",
+        "cities_derived": [
+            "Chennai"
+        ],
+        "counties_derived": null,
+        "regions_derived": [
+            "Tamil Nadu"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Chennai, Tamil Nadu, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            13.0836939
+        ],
+        "lngs_derived": [
+            80.270186
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": 1,
+        "linkedin_org_url": "https://cnredtech.com/",
+        "linkedin_org_size": "2-10 employees",
+        "linkedin_org_slogan": "CNR EdTech is a Leading IT & Non IT Training Institute Madanapalle.",
+        "linkedin_org_industry": "IT Services and IT Consulting",
+        "linkedin_org_followers": 1600,
+        "linkedin_org_headquarters": "Madanapalle, Andhra Pradesh",
+        "linkedin_org_type": "Privately Held",
+        "linkedin_org_foundeddate": "2020",
+        "linkedin_org_specialties": [
+            ""
+        ],
+        "linkedin_org_locations": [
+            "NTR Circle, Beside CNR Residency, Madanapalle, Andhra Pradesh 517325, IN"
+        ],
+        "linkedin_org_description": "CNR EdTech is a Leading IT & Non IT Training Institute Madanapalle. We are offering all types of Technical and Non Technical Training and placement services.\n100% Job Assurance, for more information please contact us.",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Entry level",
+        "directapply": false,
+        "linkedin_org_slug": "cnr-edtech",
+        "no_jb_schema": null,
+        "external_apply_url": "https://www.hirist.tech/j/data-analyst-rpython-1527021?utm_source=LinkedIn&utm_medium=referral&utm_campaign=linkedin_apply&ref=linkedin"
+    },
+    {
+        "id": "1846849623",
+        "date_posted": "2025-08-10T17:51:17.132",
+        "date_created": "2025-08-10T19:51:17.221508",
+        "title": "Data Analyst Trainee",
+        "organization": "Mdtresy Medical Travel Private Limited",
+        "organization_url": "https://www.linkedin.com/company/mdtresy-medical-travel-private-limited",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-trainee-at-mdtresy-medical-travel-private-limited-4272148671",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEbJHX245Ctvg/company-logo_100_100/B4DZf0Y7MSHAB0-/0/1752151864823?e=2147483647&v=beta&t=AlhKJ3HRlRH3Drzms7WsL1nu5Zt6K0LwZX08cKnu4Nc",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": 1,
+        "linkedin_org_url": "https://mdtresy.medtoureasy.com/",
+        "linkedin_org_size": "51-200 employees",
+        "linkedin_org_slogan": "Connecting Patients Globally",
+        "linkedin_org_industry": "Data Infrastructure and Analytics",
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": "",
+        "linkedin_org_type": "Privately Held",
+        "linkedin_org_foundeddate": "",
+        "linkedin_org_specialties": [
+            ""
+        ],
+        "linkedin_org_locations": [],
+        "linkedin_org_description": "You can assess your international possibilities with the help of Mdtresy Medical Travel Private Limited, a global healthcare organization.  Mdtresy Medical Travel Private Limited offers its partner healthcare providers worldwide analytical solutions.",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": "mdtresy-medical-travel-private-limited",
+        "no_jb_schema": true,
+        "external_apply_url": "https://form.medtoureasy.com/form/cUZsBbcn"
+    },
+    {
+        "id": "1846849622",
+        "date_posted": "2025-08-10T17:51:16.76",
+        "date_created": "2025-08-10T19:51:16.851991",
+        "title": "Data Analyst Intern",
+        "organization": "UM IT Solutions",
+        "organization_url": "https://www.linkedin.com/company/um-it-solutions",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-um-it-solutions-4282962069",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": null,
+        "linkedin_org_size": null,
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": null,
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": null,
+        "linkedin_org_type": null,
+        "linkedin_org_foundeddate": null,
+        "linkedin_org_specialties": null,
+        "linkedin_org_locations": null,
+        "linkedin_org_description": null,
+        "linkedin_org_recruitment_agency_derived": null,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": null,
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/dkkaMFf3RN9YCJeN7"
+    },
+    {
+        "id": "1846849620",
+        "date_posted": "2025-08-10T17:51:16.289",
+        "date_created": "2025-08-10T19:51:16.376263",
+        "title": "Data Analyst Intern",
+        "organization": "UM IT Solutions",
+        "organization_url": "https://www.linkedin.com/company/um-it-solutions",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-um-it-solutions-4282957278",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": null,
+        "linkedin_org_size": null,
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": null,
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": null,
+        "linkedin_org_type": null,
+        "linkedin_org_foundeddate": null,
+        "linkedin_org_specialties": null,
+        "linkedin_org_locations": null,
+        "linkedin_org_description": null,
+        "linkedin_org_recruitment_agency_derived": null,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": null,
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/dNs3mjemkqVGtp9S6"
+    },
+    {
+        "id": "1846832111",
+        "date_posted": "2025-08-10T17:22:13",
+        "date_created": "2025-08-10T18:35:12.525806",
+        "title": "Business Consulting- Business Analyst with Data analyst ,Wealth Management",
+        "organization": "NTT DATA North America",
+        "organization_url": "https://www.linkedin.com/company/ntt-data-americas",
+        "date_validthrough": "2025-09-09T17:22:13",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "IN",
+                    "addressLocality": "Pune/Pimpri-Chinchwad Area",
+                    "addressRegion": null,
+                    "streetAddress": null
+                },
+                "latitude": 18.518404,
+                "longitude": 73.86709
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/business-consulting-business-analyst-with-data-analyst-wealth-management-at-ntt-data-north-america-4282955567",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnoz2X-IxAuw/company-logo_200_200/company-logo_200_200/0/1719840778368/ntt_data_americas_logo?e=2147483647&v=beta&t=z82K7NxlGXQUlRK0bBxQzpB-m9ffQzmFhW1tMIvxCdw",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": 25779,
+        "linkedin_org_url": "https://us.nttdata.com/en/",
+        "linkedin_org_size": "10,001+ employees",
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": "IT Services and IT Consulting",
+        "linkedin_org_followers": 702641,
+        "linkedin_org_headquarters": "Plano, Texas",
+        "linkedin_org_type": "Public Company",
+        "linkedin_org_foundeddate": "",
+        "linkedin_org_specialties": [
+            "BI",
+            "Analytics and Automation",
+            "Cloud",
+            "Digital",
+            "Applications Modernization",
+            "Infrastructure Management",
+            "Security and Hosting",
+            "BPO",
+            "Financial Services and Insurance",
+            "Healthcare",
+            "Public Sector",
+            "Manufacturing and Commercial Industries",
+            "and Consulting"
+        ],
+        "linkedin_org_locations": [
+            "7950 Legacy Drive, Suite 900, Plano, Texas 75024, US",
+            "18 S End Road, Bengaluru, Karnataka 560004, IN"
+        ],
+        "linkedin_org_description": "NTT DATA, Inc. is a trusted global innovator of business and technology services. We're committed to helping clients innovate, optimize and transform for long-term success. Our R&D investments help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have diverse experts in more than 50 countries and a robust partner ecosystem of established and start-up companies. Our services include business and technology consulting, data and artificial intelligence, industry solutions, as well as the development, implementation and management of applications, infrastructure, and connectivity. ",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Entry level",
+        "directapply": false,
+        "linkedin_org_slug": "ntt-data-americas",
+        "no_jb_schema": null,
+        "external_apply_url": "https://nttdata.eightfold.ai/careers?pid=563327925007339&domain=nttdata.com&utm_source=linkedin"
+    },
+    {
+        "id": "1846832128",
+        "date_posted": "2025-08-10T17:22:13",
+        "date_created": "2025-08-10T18:35:13.107569",
+        "title": "Business Consulting- Business Analyst with Data analyst ,Wealth Management",
+        "organization": "NTT DATA North America",
+        "organization_url": "https://www.linkedin.com/company/ntt-data-americas",
+        "date_validthrough": "2025-09-09T17:22:13",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "IN",
+                    "addressLocality": "Pune/Pimpri-Chinchwad Area",
+                    "addressRegion": null,
+                    "streetAddress": null
+                },
+                "latitude": 18.518404,
+                "longitude": 73.86709
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/business-consulting-business-analyst-with-data-analyst-wealth-management-at-ntt-data-north-america-4282956397",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnoz2X-IxAuw/company-logo_200_200/company-logo_200_200/0/1719840778368/ntt_data_americas_logo?e=2147483647&v=beta&t=z82K7NxlGXQUlRK0bBxQzpB-m9ffQzmFhW1tMIvxCdw",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": 25779,
+        "linkedin_org_url": "https://us.nttdata.com/en/",
+        "linkedin_org_size": "10,001+ employees",
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": "IT Services and IT Consulting",
+        "linkedin_org_followers": 702641,
+        "linkedin_org_headquarters": "Plano, Texas",
+        "linkedin_org_type": "Public Company",
+        "linkedin_org_foundeddate": "",
+        "linkedin_org_specialties": [
+            "BI",
+            "Analytics and Automation",
+            "Cloud",
+            "Digital",
+            "Applications Modernization",
+            "Infrastructure Management",
+            "Security and Hosting",
+            "BPO",
+            "Financial Services and Insurance",
+            "Healthcare",
+            "Public Sector",
+            "Manufacturing and Commercial Industries",
+            "and Consulting"
+        ],
+        "linkedin_org_locations": [
+            "7950 Legacy Drive, Suite 900, Plano, Texas 75024, US",
+            "18 S End Road, Bengaluru, Karnataka 560004, IN"
+        ],
+        "linkedin_org_description": "NTT DATA, Inc. is a trusted global innovator of business and technology services. We're committed to helping clients innovate, optimize and transform for long-term success. Our R&D investments help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have diverse experts in more than 50 countries and a robust partner ecosystem of established and start-up companies. Our services include business and technology consulting, data and artificial intelligence, industry solutions, as well as the development, implementation and management of applications, infrastructure, and connectivity. ",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Entry level",
+        "directapply": false,
+        "linkedin_org_slug": "ntt-data-americas",
+        "no_jb_schema": null,
+        "external_apply_url": "https://nttdata.eightfold.ai/careers?pid=563327925007338&domain=nttdata.com&utm_source=linkedin"
+    },
+    {
+        "id": "1846849628",
+        "date_posted": "2025-08-10T16:51:17.409",
+        "date_created": "2025-08-10T19:51:17.512844",
+        "title": "Data Analyst Intern",
+        "organization": "UM IT Solutions",
+        "organization_url": "https://www.linkedin.com/company/um-it-solutions",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-um-it-solutions-4282453887",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": null,
+        "linkedin_org_size": null,
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": null,
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": null,
+        "linkedin_org_type": null,
+        "linkedin_org_foundeddate": null,
+        "linkedin_org_specialties": null,
+        "linkedin_org_locations": null,
+        "linkedin_org_description": null,
+        "linkedin_org_recruitment_agency_derived": null,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": null,
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/rRj2S5k6BDuKFmcz8"
+    },
+    {
+        "id": "1846849626",
+        "date_posted": "2025-08-10T16:51:17.309",
+        "date_created": "2025-08-10T19:51:17.392812",
+        "title": "Data Analyst Intern",
+        "organization": "UM IT Solutions",
+        "organization_url": "https://www.linkedin.com/company/um-it-solutions",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-um-it-solutions-4282955551",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": null,
+        "linkedin_org_size": null,
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": null,
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": null,
+        "linkedin_org_type": null,
+        "linkedin_org_foundeddate": null,
+        "linkedin_org_specialties": null,
+        "linkedin_org_locations": null,
+        "linkedin_org_description": null,
+        "linkedin_org_recruitment_agency_derived": null,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": null,
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/dNs3mjemkqVGtp9S6"
+    },
+    {
+        "id": "1846849624",
+        "date_posted": "2025-08-10T16:51:17.182",
+        "date_created": "2025-08-10T19:51:17.267811",
+        "title": "Data Analyst Intern",
+        "organization": "UM IT Solutions",
+        "organization_url": "https://www.linkedin.com/company/um-it-solutions",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-um-it-solutions-4282455558",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": null,
+        "linkedin_org_size": null,
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": null,
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": null,
+        "linkedin_org_type": null,
+        "linkedin_org_foundeddate": null,
+        "linkedin_org_specialties": null,
+        "linkedin_org_locations": null,
+        "linkedin_org_description": null,
+        "linkedin_org_recruitment_agency_derived": null,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": null,
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/rRj2S5k6BDuKFmcz8"
+    },
+    {
+        "id": "1846849621",
+        "date_posted": "2025-08-10T15:51:16.729",
+        "date_created": "2025-08-10T19:51:16.826537",
+        "title": "Data Analyst Internship",
+        "organization": "Lead India",
+        "organization_url": "https://in.linkedin.com/company/leadindialead",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-internship-at-lead-india-4280677989",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGCU3N3y4LqpQ/company-logo_100_100/B4EZiTaK1JGwAQ-/0/1754819768112?e=2147483647&v=beta&t=Ne8vSClwQ4lbNU7Kt-k7eSwVNM01sKB95Dpaw1QwnO0",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": "https://www.leadindiaa.in/",
+        "linkedin_org_size": "11-50 employees",
+        "linkedin_org_slogan": "Delivering smart, scalable IT solutions that grow with your business.",
+        "linkedin_org_industry": "IT Services and IT Consulting",
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": "Siwan",
+        "linkedin_org_type": "Self-Owned",
+        "linkedin_org_foundeddate": "2020",
+        "linkedin_org_specialties": [
+            ""
+        ],
+        "linkedin_org_locations": [
+            "Siwan, IN"
+        ],
+        "linkedin_org_description": "Lead India is a dynamic and forward-thinking IT solutions provider committed to driving digital transformation for businesses across industries. Founded with a vision to bridge the gap between innovation and execution, we specialize in delivering end-to-end technology services that empower organizations to grow, adapt, and lead in a competitive digital world.\n\nOur expertise spans across software development, IT consulting, cloud solutions, enterprise applications, and digital transformation strategies. With a team of skilled professionals and a customer-first mindset, we design scalable, secure, and sustainable IT solutions tailored to meet unique business needs.\n\nAt Lead India, we believe in more than just delivering technology — we build long-term partnerships rooted in trust, transparency, and measurable results. Whether you're a startup aiming to launch the next big idea or an enterprise seeking to modernize legacy systems, we are here to lead the way.\n\nMission:\nTo empower businesses through innovative and reliable technology solutions that drive growth and operational excellence.\n\nVision:\nTo be a trusted global partner in digital transformation, known for integrity, innovation, and impact.\n\n",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": "leadindialead",
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/5CAf3bvZM5hK2QKJ7"
+    },
+    {
+        "id": "1846849618",
+        "date_posted": "2025-08-10T15:51:15.747",
+        "date_created": "2025-08-10T19:51:15.832443",
+        "title": "Data Analyst Intern",
+        "organization": "SkillFied Mentor",
+        "organization_url": "https://www.linkedin.com/company/skillfiedmentor",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-skillfied-mentor-4282949845",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D560BAQHHtqcgp5fMMg/company-logo_100_100/B56ZUoyw.XGoAU-/0/1740146152278/skillfiedmentor_logo?e=2147483647&v=beta&t=GcWdI2lsPGWMEhs_vj0BXcO-S2IPfrSvbE37oZP7Bzk",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": 163,
+        "linkedin_org_url": "https://skillfiedmentor.com/",
+        "linkedin_org_size": "11-50 employees",
+        "linkedin_org_slogan": "\"Empowering Skills, Shaping Futures 🚀 | Learn. Grow. Succeed. 🎯\"",
+        "linkedin_org_industry": "E-Learning Providers",
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": "",
+        "linkedin_org_type": "Privately Held",
+        "linkedin_org_foundeddate": "",
+        "linkedin_org_specialties": [
+            ""
+        ],
+        "linkedin_org_locations": [],
+        "linkedin_org_description": "Welcome to SkillfiedMentor! 🎉\n\nAt SkillfiedMentor, we are dedicated to empowering individuals to achieve their professional goals through personalized mentorship and skill development. Our mission is to bridge the gap between potential and success by offering tailored guidance and resources.\n\nWhat We Offer:\n\nPersonalized Mentorship: Connect with industry experts who provide insights and advice tailored to your career aspirations.\n\nSkill Development Programs: Engage in workshops and courses designed to enhance both technical and soft skills.\n\nCareer Advancement Support: Access resources that assist in resume building, interview preparation, and job search strategies.\n\nJoin us to unlock your full potential and achieve your career dreams. Stay tuned for updates on our programs, success stories, and tips to navigate your professional path.",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": "skillfiedmentor",
+        "no_jb_schema": true,
+        "external_apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSd9Ds0lAVvcBohDwo4J5Xyd49hLPFF3ag3GVOPMVpstdh5I4w/viewform?usp=dialog"
+    },
+    {
+        "id": "1846849532",
+        "date_posted": "2025-08-10T15:51:03.567",
+        "date_created": "2025-08-10T19:51:03.65949",
+        "title": "Data Analyst",
+        "organization": "SkillFied Mentor",
+        "organization_url": "https://www.linkedin.com/company/skillfiedmentor",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-at-skillfied-mentor-4282950496",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D560BAQHHtqcgp5fMMg/company-logo_100_100/B56ZUoyw.XGoAU-/0/1740146152278/skillfiedmentor_logo?e=2147483647&v=beta&t=GcWdI2lsPGWMEhs_vj0BXcO-S2IPfrSvbE37oZP7Bzk",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": 163,
+        "linkedin_org_url": "https://skillfiedmentor.com/",
+        "linkedin_org_size": "11-50 employees",
+        "linkedin_org_slogan": "\"Empowering Skills, Shaping Futures 🚀 | Learn. Grow. Succeed. 🎯\"",
+        "linkedin_org_industry": "E-Learning Providers",
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": "",
+        "linkedin_org_type": "Privately Held",
+        "linkedin_org_foundeddate": "",
+        "linkedin_org_specialties": [
+            ""
+        ],
+        "linkedin_org_locations": [],
+        "linkedin_org_description": "Welcome to SkillfiedMentor! 🎉\n\nAt SkillfiedMentor, we are dedicated to empowering individuals to achieve their professional goals through personalized mentorship and skill development. Our mission is to bridge the gap between potential and success by offering tailored guidance and resources.\n\nWhat We Offer:\n\nPersonalized Mentorship: Connect with industry experts who provide insights and advice tailored to your career aspirations.\n\nSkill Development Programs: Engage in workshops and courses designed to enhance both technical and soft skills.\n\nCareer Advancement Support: Access resources that assist in resume building, interview preparation, and job search strategies.\n\nJoin us to unlock your full potential and achieve your career dreams. Stay tuned for updates on our programs, success stories, and tips to navigate your professional path.",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": "skillfiedmentor",
+        "no_jb_schema": true,
+        "external_apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSd9Ds0lAVvcBohDwo4J5Xyd49hLPFF3ag3GVOPMVpstdh5I4w/viewform?usp=dialog"
+    },
+    {
+        "id": "1846849530",
+        "date_posted": "2025-08-10T15:51:03.362",
+        "date_created": "2025-08-10T19:51:03.442221",
+        "title": "Data Analyst",
+        "organization": "SkillFied Mentor",
+        "organization_url": "https://www.linkedin.com/company/skillfiedmentor",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-at-skillfied-mentor-4282953592",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D560BAQHHtqcgp5fMMg/company-logo_100_100/B56ZUoyw.XGoAU-/0/1740146152278/skillfiedmentor_logo?e=2147483647&v=beta&t=GcWdI2lsPGWMEhs_vj0BXcO-S2IPfrSvbE37oZP7Bzk",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": 163,
+        "linkedin_org_url": "https://skillfiedmentor.com/",
+        "linkedin_org_size": "11-50 employees",
+        "linkedin_org_slogan": "\"Empowering Skills, Shaping Futures 🚀 | Learn. Grow. Succeed. 🎯\"",
+        "linkedin_org_industry": "E-Learning Providers",
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": "",
+        "linkedin_org_type": "Privately Held",
+        "linkedin_org_foundeddate": "",
+        "linkedin_org_specialties": [
+            ""
+        ],
+        "linkedin_org_locations": [],
+        "linkedin_org_description": "Welcome to SkillfiedMentor! 🎉\n\nAt SkillfiedMentor, we are dedicated to empowering individuals to achieve their professional goals through personalized mentorship and skill development. Our mission is to bridge the gap between potential and success by offering tailored guidance and resources.\n\nWhat We Offer:\n\nPersonalized Mentorship: Connect with industry experts who provide insights and advice tailored to your career aspirations.\n\nSkill Development Programs: Engage in workshops and courses designed to enhance both technical and soft skills.\n\nCareer Advancement Support: Access resources that assist in resume building, interview preparation, and job search strategies.\n\nJoin us to unlock your full potential and achieve your career dreams. Stay tuned for updates on our programs, success stories, and tips to navigate your professional path.",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": "skillfiedmentor",
+        "no_jb_schema": true,
+        "external_apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSd9Ds0lAVvcBohDwo4J5Xyd49hLPFF3ag3GVOPMVpstdh5I4w/viewform?usp=dialog"
+    },
+    {
+        "id": "1846768857",
+        "date_posted": "2025-08-10T14:33:02.841",
+        "date_created": "2025-08-10T14:51:02.935837",
+        "title": "Data Analyst Trainee",
+        "organization": "MedTourEasy Dwarka",
+        "organization_url": "https://www.linkedin.com/company/medtoureasy-dwarka",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-trainee-at-medtoureasy-dwarka-4282953287",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D560BAQFT8ei2HHu9Kg/company-logo_100_100/B56ZbP5VGdGsAQ-/0/1747244635107?e=2147483647&v=beta&t=YcM5NwsQj9VLwK42dVHXtdogeqQSd1PeoGHFHKi-5Sk",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": "www.medtoureasy.com",
+        "linkedin_org_size": "51-200 employees",
+        "linkedin_org_slogan": "Connecting Patients Worldwide",
+        "linkedin_org_industry": "Hospitals and Health Care",
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": "",
+        "linkedin_org_type": "Privately Held",
+        "linkedin_org_foundeddate": "",
+        "linkedin_org_specialties": [
+            ""
+        ],
+        "linkedin_org_locations": [],
+        "linkedin_org_description": "MedTourEasy, a global healthcare company, provides you the informational resources needed to evaluate your global options. MedTourEasy provides analytical solutions to our partner healthcare providers globally.",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": "medtoureasy-dwarka",
+        "no_jb_schema": true,
+        "external_apply_url": "https://form.medtoureasy.com/form/cUZsBbcn"
+    },
+    {
+        "id": "1846768735",
+        "date_posted": "2025-08-10T14:26:42.392",
+        "date_created": "2025-08-10T14:50:42.479366",
+        "title": "Data Analyst Trainee",
+        "organization": "MedTourEasy Mumbai",
+        "organization_url": "https://in.linkedin.com/company/medtoureas",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-trainee-at-medtoureasy-mumbai-4282454507",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEOPkHhY0hQlQ/company-logo_100_100/company-logo_100_100/0/1699990989714?e=2147483647&v=beta&t=UWBYd_iRTxLKFc6gnbuabMOmjJfgo20vC3cBbyPyV9g",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": 1,
+        "linkedin_org_url": "https://mumbai.medtoureasy.com",
+        "linkedin_org_size": "201-500 employees",
+        "linkedin_org_slogan": "Connecting Patients Worldwide",
+        "linkedin_org_industry": "Education",
+        "linkedin_org_followers": 981,
+        "linkedin_org_headquarters": "New Delhi, Delhi",
+        "linkedin_org_type": "Privately Held",
+        "linkedin_org_foundeddate": "",
+        "linkedin_org_specialties": [
+            ""
+        ],
+        "linkedin_org_locations": [
+            "B-1/632, Janak Puri, New Delhi, Delhi 110058, IN"
+        ],
+        "linkedin_org_description": "MedTourEasy, a global healthcare company, provides you the informational resources needed to evaluate your global options. It helps you find the right healthcare solution based on specific health needs, affordable care while meeting the quality standards that you expect to have in healthcare. MedTourEasy improves access to healthcare for people everywhere. MedTourEasy provides analytical solutions to our partner healthcare providers globally.",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": "medtoureas",
+        "no_jb_schema": true,
+        "external_apply_url": "https://form.medtoureasy.com/form/cUZsBbcn"
+    },
+    {
+        "id": "1846768725",
+        "date_posted": "2025-08-10T13:50:40.992",
+        "date_created": "2025-08-10T14:50:41.088454",
+        "title": "Data Analyst",
+        "organization": "Enerzcloud Solutions",
+        "organization_url": "https://in.linkedin.com/company/enerzcloud-solutionss",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-at-enerzcloud-solutions-4282945267",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE71dOwxvztTA/company-logo_100_100/B4EZhlVg.gGcAQ-/0/1754046796352/enerzcloud_solutionss_logo?e=2147483647&v=beta&t=oevN_WXl1A4fQVu6mWqv7ftV9tdSpCjbdl969gehlwE",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": "https://www.enerzcloud.in/",
+        "linkedin_org_size": "2-10 employees",
+        "linkedin_org_slogan": "We’re A Team That Guides Each Other",
+        "linkedin_org_industry": "IT Services and IT Consulting",
+        "linkedin_org_followers": 1550,
+        "linkedin_org_headquarters": "85/3B, Neeladri Rd, Karuna Nagar, Electronics City Phase 1, Doddathoguru, Bengaluru, Karnataka",
+        "linkedin_org_type": "Self-Owned",
+        "linkedin_org_foundeddate": "2017",
+        "linkedin_org_specialties": [
+            ""
+        ],
+        "linkedin_org_locations": [
+            "85/3B, Neeladri Rd, Karuna Nagar, Electronics City Phase 1, Doddathoguru, Bengaluru, Karnataka 560100, IN"
+        ],
+        "linkedin_org_description": "Enerzcloud Solutions is a premier IT solutions and staffing company committed to empowering businesses through technology and talent. We specialize in delivering customized IT services—from cloud infrastructure and cybersecurity to application development—paired with strategic staffing solutions that help companies scale efficiently.\n\nOur team combines deep technical expertise with a client-first approach, ensuring that every solution is aligned with your business goals. Whether you're a startup or a large enterprise, Enerzcloud Solutions helps you innovate, adapt, and grow in today’s fast-paced digital landscape.\n\nWhat We Offer:\n\nCustom IT solutions and consulting\n\nCloud, DevOps, and cybersecurity services\n\nIT staffing (contract, contract-to-hire, and permanent placement)\n\nAccess to a global network of skilled technology professionals",
+        "linkedin_org_recruitment_agency_derived": true,
+        "seniority": "Entry level",
+        "directapply": false,
+        "linkedin_org_slug": "enerzcloud-solutionss",
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/LX1P6sLTKwpwM3Qs5"
+    },
+    {
+        "id": "1846768858",
+        "date_posted": "2025-08-10T12:51:02.89",
+        "date_created": "2025-08-10T14:51:02.974731",
+        "title": "Data Analyst Intern",
+        "organization": "UM IT Solutions",
+        "organization_url": "https://www.linkedin.com/company/um-it-solutions",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-um-it-solutions-4282447672",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": null,
+        "linkedin_org_size": null,
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": null,
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": null,
+        "linkedin_org_type": null,
+        "linkedin_org_foundeddate": null,
+        "linkedin_org_specialties": null,
+        "linkedin_org_locations": null,
+        "linkedin_org_description": null,
+        "linkedin_org_recruitment_agency_derived": null,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": null,
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/rRj2S5k6BDuKFmcz8"
+    },
+    {
+        "id": "1846768853",
+        "date_posted": "2025-08-10T12:51:02.744",
+        "date_created": "2025-08-10T14:51:02.829399",
+        "title": "Data Analyst Intern",
+        "organization": "UM IT Solutions",
+        "organization_url": "https://www.linkedin.com/company/um-it-solutions",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-um-it-solutions-4282447699",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": null,
+        "linkedin_org_size": null,
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": null,
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": null,
+        "linkedin_org_type": null,
+        "linkedin_org_foundeddate": null,
+        "linkedin_org_specialties": null,
+        "linkedin_org_locations": null,
+        "linkedin_org_description": null,
+        "linkedin_org_recruitment_agency_derived": null,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": null,
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/rRj2S5k6BDuKFmcz8"
+    },
+    {
+        "id": "1846768851",
+        "date_posted": "2025-08-10T12:51:01.648",
+        "date_created": "2025-08-10T14:51:01.762384",
+        "title": "Data Analyst Intern",
+        "organization": "UM IT Solutions",
+        "organization_url": "https://www.linkedin.com/company/um-it-solutions",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-um-it-solutions-4282943071",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": null,
+        "linkedin_org_size": null,
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": null,
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": null,
+        "linkedin_org_type": null,
+        "linkedin_org_foundeddate": null,
+        "linkedin_org_specialties": null,
+        "linkedin_org_locations": null,
+        "linkedin_org_description": null,
+        "linkedin_org_recruitment_agency_derived": null,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": null,
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/dNs3mjemkqVGtp9S6"
+    },
+    {
+        "id": "1846768849",
+        "date_posted": "2025-08-10T12:51:01.288",
+        "date_created": "2025-08-10T14:51:01.37203",
+        "title": "Data Analyst Intern",
+        "organization": "UM IT Solutions",
+        "organization_url": "https://www.linkedin.com/company/um-it-solutions",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-um-it-solutions-4282946187",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": null,
+        "linkedin_org_size": null,
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": null,
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": null,
+        "linkedin_org_type": null,
+        "linkedin_org_foundeddate": null,
+        "linkedin_org_specialties": null,
+        "linkedin_org_locations": null,
+        "linkedin_org_description": null,
+        "linkedin_org_recruitment_agency_derived": null,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": null,
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/dkkaMFf3RN9YCJeN7"
+    },
+    {
+        "id": "1846768739",
+        "date_posted": "2025-08-10T12:50:42.662",
+        "date_created": "2025-08-10T14:50:42.74487",
+        "title": "Data Analyst Internship",
+        "organization": "Enerzcloud Solutions",
+        "organization_url": "https://in.linkedin.com/company/enerzcloud-solutionss",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-internship-at-enerzcloud-solutions-4282942547",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE71dOwxvztTA/company-logo_100_100/B4EZhlVg.gGcAQ-/0/1754046796352/enerzcloud_solutionss_logo?e=2147483647&v=beta&t=oevN_WXl1A4fQVu6mWqv7ftV9tdSpCjbdl969gehlwE",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": "https://www.enerzcloud.in/",
+        "linkedin_org_size": "2-10 employees",
+        "linkedin_org_slogan": "We’re A Team That Guides Each Other",
+        "linkedin_org_industry": "IT Services and IT Consulting",
+        "linkedin_org_followers": 1550,
+        "linkedin_org_headquarters": "85/3B, Neeladri Rd, Karuna Nagar, Electronics City Phase 1, Doddathoguru, Bengaluru, Karnataka",
+        "linkedin_org_type": "Self-Owned",
+        "linkedin_org_foundeddate": "2017",
+        "linkedin_org_specialties": [
+            ""
+        ],
+        "linkedin_org_locations": [
+            "85/3B, Neeladri Rd, Karuna Nagar, Electronics City Phase 1, Doddathoguru, Bengaluru, Karnataka 560100, IN"
+        ],
+        "linkedin_org_description": "Enerzcloud Solutions is a premier IT solutions and staffing company committed to empowering businesses through technology and talent. We specialize in delivering customized IT services—from cloud infrastructure and cybersecurity to application development—paired with strategic staffing solutions that help companies scale efficiently.\n\nOur team combines deep technical expertise with a client-first approach, ensuring that every solution is aligned with your business goals. Whether you're a startup or a large enterprise, Enerzcloud Solutions helps you innovate, adapt, and grow in today’s fast-paced digital landscape.\n\nWhat We Offer:\n\nCustom IT solutions and consulting\n\nCloud, DevOps, and cybersecurity services\n\nIT staffing (contract, contract-to-hire, and permanent placement)\n\nAccess to a global network of skilled technology professionals",
+        "linkedin_org_recruitment_agency_derived": true,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": "enerzcloud-solutionss",
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/LX1P6sLTKwpwM3Qs5"
+    },
+    {
+        "id": "1846768738",
+        "date_posted": "2025-08-10T12:50:42.616",
+        "date_created": "2025-08-10T14:50:42.697213",
+        "title": "Data Analyst Trainee",
+        "organization": "MedTourEasy",
+        "organization_url": "https://in.linkedin.com/company/medtoureasyy",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-trainee-at-medtoureasy-4278260516",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFeBixANqwkJg/company-logo_100_100/company-logo_100_100/0/1630625766850/medtoureasyy_logo?e=2147483647&v=beta&t=JLl_umSmLTyNIbnxuFZBsugy9tzKWEE1XmUNc65z3-Q",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": 275,
+        "linkedin_org_url": "https://www.medtoureasy.com",
+        "linkedin_org_size": "201-500 employees",
+        "linkedin_org_slogan": "Connecting Patients Worldwide",
+        "linkedin_org_industry": "Hospitals and Health Care",
+        "linkedin_org_followers": 46350,
+        "linkedin_org_headquarters": "New Delhi, Delhi",
+        "linkedin_org_type": "Privately Held",
+        "linkedin_org_foundeddate": "2015",
+        "linkedin_org_specialties": [
+            "Latest Medical packages and deals with some of the Top Hospitals in India.",
+            "Customized treatment packages",
+            "High end surgeries",
+            "Wellness procedures,Ayurveda treatments",
+            "Yoga centers,Rejuvenation centers,",
+            "Allopathy ,Post treatment followup with the Surgeon",
+            "Cancer Care",
+            "Cardiology",
+            "Orthopedics",
+            "Dentistry",
+            "Aesthetic medicine",
+            "Reproductive medicine",
+            "Neurology",
+            "NeuroSurgery",
+            "Bariatric Surgery",
+            "Ophthalmology",
+            "Spinal Surgery",
+            "Transplantation ( Heart",
+            "Liver",
+            "Kidney",
+            "Bone Marrow Transplant",
+            "Plastic & Cosmetic Surgery",
+            "Stem Cell Treatment",
+            "and Telemedicine Consultation"
+        ],
+        "linkedin_org_locations": [
+            "B-1/632, 3rd Floor, Janak Puri, New Delhi, Delhi 110001, IN",
+            "213 W, 29th Street, New York City, NY 10001, US"
+        ],
+        "linkedin_org_description": "MedTourEasy, a global healthcare company, provides you the informational resources needed to evaluate your global options. It helps you find the right healthcare solution based on specific health needs, affordable care while meeting the quality standards that you expect to have in healthcare. MedTourEasy improves access to healthcare for people everywhere. MedTourEasy provides analytical solutions to our partner healthcare providers globally.",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": "medtoureasyy",
+        "no_jb_schema": true,
+        "external_apply_url": "https://form.medtoureasy.com/form/cUZsBbcn"
+    },
+    {
+        "id": "1846768729",
+        "date_posted": "2025-08-10T12:50:41.661",
+        "date_created": "2025-08-10T14:50:41.755311",
+        "title": "Data Analyst",
+        "organization": "SkillFied Mentor",
+        "organization_url": "https://www.linkedin.com/company/skillfiedmentor",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-at-skillfied-mentor-4282941474",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D560BAQHHtqcgp5fMMg/company-logo_100_100/B56ZUoyw.XGoAU-/0/1740146152278/skillfiedmentor_logo?e=2147483647&v=beta&t=GcWdI2lsPGWMEhs_vj0BXcO-S2IPfrSvbE37oZP7Bzk",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": 163,
+        "linkedin_org_url": "https://skillfiedmentor.com/",
+        "linkedin_org_size": "11-50 employees",
+        "linkedin_org_slogan": "\"Empowering Skills, Shaping Futures 🚀 | Learn. Grow. Succeed. 🎯\"",
+        "linkedin_org_industry": "E-Learning Providers",
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": "",
+        "linkedin_org_type": "Privately Held",
+        "linkedin_org_foundeddate": "",
+        "linkedin_org_specialties": [
+            ""
+        ],
+        "linkedin_org_locations": [],
+        "linkedin_org_description": "Welcome to SkillfiedMentor! 🎉\n\nAt SkillfiedMentor, we are dedicated to empowering individuals to achieve their professional goals through personalized mentorship and skill development. Our mission is to bridge the gap between potential and success by offering tailored guidance and resources.\n\nWhat We Offer:\n\nPersonalized Mentorship: Connect with industry experts who provide insights and advice tailored to your career aspirations.\n\nSkill Development Programs: Engage in workshops and courses designed to enhance both technical and soft skills.\n\nCareer Advancement Support: Access resources that assist in resume building, interview preparation, and job search strategies.\n\nJoin us to unlock your full potential and achieve your career dreams. Stay tuned for updates on our programs, success stories, and tips to navigate your professional path.",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": "skillfiedmentor",
+        "no_jb_schema": true,
+        "external_apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSd9Ds0lAVvcBohDwo4J5Xyd49hLPFF3ag3GVOPMVpstdh5I4w/viewform?usp=dialog"
+    },
+    {
+        "id": "1846736881",
+        "date_posted": "2025-08-10T12:29:29",
+        "date_created": "2025-08-10T12:35:35.772597",
+        "title": "Data Analyst & MIS Executive - Operations",
+        "organization": "HubbleHox",
+        "organization_url": "https://www.linkedin.com/company/hubblehox",
+        "date_validthrough": "2025-09-09T12:29:28",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "IN",
+                    "addressLocality": "Mumbai",
+                    "addressRegion": null,
+                    "streetAddress": null
+                },
+                "latitude": 18.969048,
+                "longitude": 72.82118
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-mis-executive-operations-at-hubblehox-4280675618",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG24mzgWqPdhw/company-logo_200_200/company-logo_200_200/0/1670929812785/knoggles_logo?e=2147483647&v=beta&t=JJBMDieLFbJyRZ-kat1BhL0oxskNN3IOLaDa053lf9E",
+        "cities_derived": [
+            "Mumbai City"
+        ],
+        "counties_derived": null,
+        "regions_derived": [
+            "Maharashtra"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Mumbai City, Maharashtra, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            19.054999
+        ],
+        "lngs_derived": [
+            72.8692035
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": 136,
+        "linkedin_org_url": "www.hubblehox.com",
+        "linkedin_org_size": "51-200 employees",
+        "linkedin_org_slogan": "Transforming Education through Innovative Technology!",
+        "linkedin_org_industry": "E-Learning Providers",
+        "linkedin_org_followers": 6756,
+        "linkedin_org_headquarters": "Mumbai, Maharashtra",
+        "linkedin_org_type": "Privately Held",
+        "linkedin_org_foundeddate": "2022",
+        "linkedin_org_specialties": [
+            "EdTech",
+            "ERP",
+            "and teacher training"
+        ],
+        "linkedin_org_locations": [
+            "New Link Road, 801, 8th floor, Interface-11, Malad West, Mumbai, MH 400064, India., Mumbai, Maharashtra 400064, IN"
+        ],
+        "linkedin_org_description": "HubbleHox is an EdTech company dedicated to providing schools with the technological infrastructure they need to thrive in this digital age. Enabling greater efficiency and scalability to drive down costs and maximize institutional impact. \n\nFounded by Mr. Rustom Kerawalla (Founder Chairman, Ampersand Group & VIBGYOR Group of Schools), we aim at driving learning opportunities for all - effectively learning from “Cradle to the Grave”. This will help in learning and skilling from an employment & employability perspective. \n\nJoin us on this journey to revolutionize education through technology. Follow our page to stay updated on how HubbleHox is transforming schools with its cutting-edge solutions and enabling success for every student. ",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Associate",
+        "directapply": true,
+        "linkedin_org_slug": "hubblehox",
+        "no_jb_schema": null,
+        "external_apply_url": null
+    },
+    {
+        "id": "1846768852",
+        "date_posted": "2025-08-10T11:51:01.992",
+        "date_created": "2025-08-10T14:51:02.079607",
+        "title": "Data Analyst Intern",
+        "organization": "UM IT Solutions",
+        "organization_url": "https://www.linkedin.com/company/um-it-solutions",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-um-it-solutions-4282941058",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": null,
+        "linkedin_org_size": null,
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": null,
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": null,
+        "linkedin_org_type": null,
+        "linkedin_org_foundeddate": null,
+        "linkedin_org_specialties": null,
+        "linkedin_org_locations": null,
+        "linkedin_org_description": null,
+        "linkedin_org_recruitment_agency_derived": null,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": null,
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/dNs3mjemkqVGtp9S6"
+    },
+    {
+        "id": "1846736758",
+        "date_posted": "2025-08-10T11:10:14",
+        "date_created": "2025-08-10T12:35:24.172959",
+        "title": "Data Analyst",
+        "organization": "SAKU",
+        "organization_url": "https://www.linkedin.com/company/houseofsaku",
+        "date_validthrough": "2026-02-06T11:10:14",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "IN",
+                    "addressLocality": "Gurugram",
+                    "addressRegion": null,
+                    "streetAddress": null
+                },
+                "latitude": 28.466589,
+                "longitude": 77.03331
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-at-saku-4282451021",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D560BAQEtNOupswDRow/company-logo_200_200/company-logo_200_200/0/1718811940697/saku_retails_pvt_ltd_logo?e=2147483647&v=beta&t=mqnm3UxptbUxtlYex0OSRpWamE0AtT6WodcxiXY7JWY",
+        "cities_derived": [
+            "Gurugram"
+        ],
+        "counties_derived": null,
+        "regions_derived": [
+            "Haryana"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Gurugram, Haryana, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            28.4646148
+        ],
+        "lngs_derived": [
+            77.0299194
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": 26,
+        "linkedin_org_url": "https://www.instagram.com/saku.global/",
+        "linkedin_org_size": "11-50 employees",
+        "linkedin_org_slogan": "SAKU - a House of lifestyle Brands. Customer-centric premium omni-channel fashion & lifestyle destination.",
+        "linkedin_org_industry": "Retail Apparel and Fashion",
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": "Gurugram",
+        "linkedin_org_type": "Privately Held",
+        "linkedin_org_foundeddate": "2024",
+        "linkedin_org_specialties": [
+            "Apparel store and Premium shopping Experience"
+        ],
+        "linkedin_org_locations": [
+            "Gurugram, IN"
+        ],
+        "linkedin_org_description": "Saku brings to you the best and premium shopping experience in retail apparel, through our own offline retail stores or through online store.",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Entry level",
+        "directapply": true,
+        "linkedin_org_slug": "houseofsaku",
+        "no_jb_schema": null,
+        "external_apply_url": null
+    },
+    {
+        "id": "1846692693",
+        "date_posted": "2025-08-10T09:42:02.064",
+        "date_created": "2025-08-10T09:51:02.155242",
+        "title": "Data Analyst Intern",
+        "organization": "UM IT Solutions",
+        "organization_url": "https://www.linkedin.com/company/um-it-solutions",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-um-it-solutions-4282440606",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": null,
+        "linkedin_org_size": null,
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": null,
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": null,
+        "linkedin_org_type": null,
+        "linkedin_org_foundeddate": null,
+        "linkedin_org_specialties": null,
+        "linkedin_org_locations": null,
+        "linkedin_org_description": null,
+        "linkedin_org_recruitment_agency_derived": null,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": null,
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/rRj2S5k6BDuKFmcz8"
+    },
+    {
+        "id": "1846692670",
+        "date_posted": "2025-08-10T09:40:01",
+        "date_created": "2025-08-10T09:51:00.273661",
+        "title": "Data Analyst",
+        "organization": "KenyaMOJA.com",
+        "organization_url": "https://www.linkedin.com/company/kenyamoja",
+        "date_validthrough": "2025-09-09T09:40:01",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "IN",
+                    "addressLocality": "Kenya",
+                    "addressRegion": null,
+                    "streetAddress": null
+                },
+                "latitude": 12.700078,
+                "longitude": 75.508965
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-at-kenyamoja-com-4282444228",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGkDVssYbymSA/company-logo_200_200/company-logo_200_200/0/1630558660289/kenyamoja_com_logo?e=2147483647&v=beta&t=Mt_H4FHr4LzxmMfOYG83MCPcjHaVAqHGTmslKSYFNWc",
+        "cities_derived": [
+            "Kenya"
+        ],
+        "counties_derived": [
+            "Kadaba taluk"
+        ],
+        "regions_derived": [
+            "Karnataka"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Kenya, Karnataka, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            12.6920464
+        ],
+        "lngs_derived": [
+            75.5001151
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": 10,
+        "linkedin_org_url": "https://www.kenyamoja.com/",
+        "linkedin_org_size": "11-50 employees",
+        "linkedin_org_slogan": "KenyaMOJA is a website that aggregates Kenyan content all over the web into an easy-to-read format. ",
+        "linkedin_org_industry": "Book and Periodical Publishing",
+        "linkedin_org_followers": 5012,
+        "linkedin_org_headquarters": "Nairobi, Nairobi",
+        "linkedin_org_type": "Privately Held",
+        "linkedin_org_foundeddate": "2010",
+        "linkedin_org_specialties": [
+            ""
+        ],
+        "linkedin_org_locations": [
+            "Nairobi, Nairobi, KE"
+        ],
+        "linkedin_org_description": "KenyaMOJA - Kenya's largest web portal - is the most comprehensive one-stop web portal for Kenyan news, videos and information on the web.",
+        "linkedin_org_recruitment_agency_derived": false,
+        "seniority": "Mid-Senior level",
+        "directapply": false,
+        "linkedin_org_slug": "kenyamoja",
+        "no_jb_schema": null,
+        "external_apply_url": "https://www.kenyamoja.com/click.php?title=Data Analyst&url=https://www.brightermonday.co.ke/listings/data-analyst-k8j90x&utm_source=KenyaMOJA.com"
+    },
+    {
+        "id": "1846692678",
+        "date_posted": "2025-08-10T07:51:01.206",
+        "date_created": "2025-08-10T09:51:01.297062",
+        "title": "Data Analyst Intern",
+        "organization": "UM IT Solutions",
+        "organization_url": "https://www.linkedin.com/company/um-it-solutions",
+        "date_validthrough": null,
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressRegion": "",
+                    "addressCountry": "",
+                    "addressLocality": "India"
+                }
+            }
+        ],
+        "location_type": null,
+        "location_requirements_raw": null,
+        "salary_raw": null,
+        "employment_type": [
+            "INTERN"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-intern-at-um-it-solutions-4282930421",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u",
+        "cities_derived": null,
+        "counties_derived": null,
+        "regions_derived": null,
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            22.3511148
+        ],
+        "lngs_derived": [
+            78.6677428
+        ],
+        "remote_derived": false,
+        "linkedin_org_employees": null,
+        "linkedin_org_url": null,
+        "linkedin_org_size": null,
+        "linkedin_org_slogan": null,
+        "linkedin_org_industry": null,
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": null,
+        "linkedin_org_type": null,
+        "linkedin_org_foundeddate": null,
+        "linkedin_org_specialties": null,
+        "linkedin_org_locations": null,
+        "linkedin_org_description": null,
+        "linkedin_org_recruitment_agency_derived": null,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": null,
+        "no_jb_schema": true,
+        "external_apply_url": "https://forms.gle/dkkaMFf3RN9YCJeN7"
+    },
+    {
+        "id": "1846690898",
+        "date_posted": "2025-08-10T06:57:02",
+        "date_created": "2025-08-10T09:35:30.768185",
+        "title": "Data Analyst",
+        "organization": "Workassist",
+        "organization_url": "https://www.linkedin.com/company/workassist-in",
+        "date_validthrough": "2025-09-09T06:57:02",
+        "locations_raw": [
+            {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "IN",
+                    "addressLocality": "Chennai",
+                    "addressRegion": null,
+                    "streetAddress": null
+                },
+                "latitude": 13.072092,
+                "longitude": 80.20186
+            }
+        ],
+        "location_type": "TELECOMMUTE",
+        "location_requirements_raw": [
+            {
+                "@type": "Country",
+                "name": "Chennai, Tamil Nadu, India"
+            }
+        ],
+        "salary_raw": null,
+        "employment_type": [
+            "FULL_TIME"
+        ],
+        "url": "https://in.linkedin.com/jobs/view/data-analyst-at-workassist-4282926853",
+        "source_type": "jobboard",
+        "source": "linkedin",
+        "source_domain": "in.linkedin.com",
+        "organization_logo": "https://media.licdn.com/dms/image/v2/D560BAQFGZf22_mNBYQ/company-logo_200_200/company-logo_200_200/0/1712735246282/workassist_in_logo?e=2147483647&v=beta&t=sFSeORM6CHdFmvfJT-ICGoucBGLNS8AGcYLO6UvcAHA",
+        "cities_derived": [
+            "Chennai"
+        ],
+        "counties_derived": null,
+        "regions_derived": [
+            "Tamil Nadu"
+        ],
+        "countries_derived": [
+            "India"
+        ],
+        "locations_derived": [
+            "Chennai, Tamil Nadu, India"
+        ],
+        "timezones_derived": [
+            "Asia/Kolkata"
+        ],
+        "lats_derived": [
+            13.0836939
+        ],
+        "lngs_derived": [
+            80.270186
+        ],
+        "remote_derived": true,
+        "linkedin_org_employees": 57,
+        "linkedin_org_url": "https://www.workassist.in/",
+        "linkedin_org_size": "51-200 employees",
+        "linkedin_org_slogan": "Workassist.in is India's Leading Online Job Portal - Apply Now for the latest Job Vacancies. Register now for free!",
+        "linkedin_org_industry": "Staffing and Recruiting",
+        "linkedin_org_followers": null,
+        "linkedin_org_headquarters": "Lucknow",
+        "linkedin_org_type": "Public Company",
+        "linkedin_org_foundeddate": "2023",
+        "linkedin_org_specialties": [
+            "Talent Management",
+            "Recruitment",
+            " Career Transition",
+            "Recruiting",
+            "Hiring",
+            "career growth",
+            "career advice",
+            "retail banking",
+            "IT jobs",
+            "BFSI jobs",
+            "Retail jobs",
+            "finance jobs",
+            "banking jobs",
+            "job portal",
+            "latest jobs",
+            "job hunt",
+            "job seeker",
+            "recruiters",
+            "Online Recruitment Solution Provider",
+            "and Banking Jobs"
+        ],
+        "linkedin_org_locations": [
+            "India, Lucknow, IN"
+        ],
+        "linkedin_org_description": "Workassist is an online recruitment and employment solution providing a platform in India. Workassist provides relevant profiles to employers and relevant jobs to job seekers across different industries and with varying levels of experience leveraging the technology through e-recruitment. \n\nWorkassist has quickly adapted to the new normal and assists job seekers with the best opportunities and employers with the best talent from all over the world.\n\nGet in touch to enhance the job seeking experience as we work with Recruiters from sectors such as Banking & Finance, Consulting, Sales & Marketing, Healthcare, IT and Operations and legal to help them recruit great emerging talents.\n\n>>>>For a seamless job search experience,\n>>>>Visit: https://bit.ly/3ztaKSi",
+        "linkedin_org_recruitment_agency_derived": true,
+        "seniority": "Internship",
+        "directapply": false,
+        "linkedin_org_slug": "workassist-in",
+        "no_jb_schema": null,
+        "external_apply_url": "https://www.workassist.in/job-details/data-analytics-intern-1109"
+    }
+]
