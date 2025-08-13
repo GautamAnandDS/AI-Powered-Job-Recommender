@@ -141,7 +141,7 @@ Job Type: Full-time
 
 | Home Page                                                                                                                          | Job Recommendations                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="1907" height="963" alt="image" src="https://github.com/user-attachments/assets/0e4c0d02-1d7a-479c-9aca-5cf6acc64900" />| <img width="1900" height="969" alt="image" src="https://github.com/user-attachments/assets/22132308-6143-4efb-a58d-d5384950d675" /> |
+| <img width="1907" height="963" alt="image" src="https://github.com/user-attachments/assets/0e4c0d02-1d7a-479c-9aca-5cf6acc64900" />| <img width="1906" height="955" alt="image" src="https://github.com/user-attachments/assets/dfb03690-55cf-444c-81e6-4a10e92308b8" /> |
 
 ---
 
