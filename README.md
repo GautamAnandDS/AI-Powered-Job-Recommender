@@ -2,6 +2,7 @@
 
 An intelligent web application that helps students and job seekers discover suitable job or internship opportunities by matching their **skills, experience, and preferences** using **LangChain**, **Groq LLaMA3**, and **RAG (Retrieval-Augmented Generation)** techniques.
 
+<img width="1900" height="969" alt="image" src="https://github.com/user-attachments/assets/f32d4e8a-a117-4bf8-9cbf-5accca529c20" />
 <img width="1907" height="963" alt="image" src="https://github.com/user-attachments/assets/0e4c0d02-1d7a-479c-9aca-5cf6acc64900" />
 <img width="1900" height="969" alt="image" src="https://github.com/user-attachments/assets/22132308-6143-4efb-a58d-d5384950d675" />
 <img width="1906" height="955" alt="image" src="https://github.com/user-attachments/assets/dfb03690-55cf-444c-81e6-4a10e92308b8" />
@@ -51,7 +52,8 @@ An intelligent web application that helps students and job seekers discover suit
 5. **LLM Ranking** – LLaMA3 ranks shortlisted jobs with clear reasoning.
 6. **Results Display** – Shows polished recommendations with job links.
 
-![Workflow Diagram](screenshots/workflow.png)  
+![genai proj- system architecture](https://github.com/user-attachments/assets/0f372213-4ccd-48fd-b732-1403a85e54c9)
+ 
 *System architecture workflow*
 
 ---
