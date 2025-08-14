@@ -95,7 +95,8 @@ if st.button("🔎 Get Recommendations", use_container_width=True):
         llm_md = groq_llm(prompt)
 
     st.subheader("🎯 Recommendations")
-    st.markdown(llm_md)
+    st.markdown(llm_md, unsafe_allow_html=True)
+
 
     # Optional: show the raw top-N similar jobs (pre-LLM) as cards
     with st.expander("Top similar jobs (pre-LLM)"):
