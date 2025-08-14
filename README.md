@@ -2,11 +2,10 @@
 
 An intelligent web application that helps students and job seekers discover suitable job or internship opportunities by matching their **skills, experience, and preferences** using **LangChain**, **Groq LLaMA3**, and **RAG (Retrieval-Augmented Generation)** techniques.
 
-<img width="1900" height="969" alt="image" src="https://github.com/user-attachments/assets/f32d4e8a-a117-4bf8-9cbf-5accca529c20" />
-<img width="1907" height="963" alt="image" src="https://github.com/user-attachments/assets/0e4c0d02-1d7a-479c-9aca-5cf6acc64900" />
-<img width="1900" height="969" alt="image" src="https://github.com/user-attachments/assets/22132308-6143-4efb-a58d-d5384950d675" />
-<img width="1906" height="955" alt="image" src="https://github.com/user-attachments/assets/dfb03690-55cf-444c-81e6-4a10e92308b8" />
-<img width="1910" height="955" alt="image" src="https://github.com/user-attachments/assets/6b54faed-108e-4a5c-9641-830556bcb9b0" />
+<img width="1900" height="963" alt="image" src="https://github.com/user-attachments/assets/f32d4e8a-a117-4bf8-9cbf-5accca529c20" />
+<img width="1900" height="963" alt="image" src="https://github.com/user-attachments/assets/0e4c0d02-1d7a-479c-9aca-5cf6acc64900" />
+<img width="1900" height="963" alt="Screenshot 2025-08-14 141916" src="https://github.com/user-attachments/assets/548ae68e-c596-4cea-9443-5a6b5d37d416" />
+<img width="1900" height="963" alt="Screenshot 2025-08-14 141812" src="https://github.com/user-attachments/assets/75cf52cf-525f-4dca-a2ac-7a8b104e6638" />
 
 
 ---
@@ -143,7 +142,7 @@ Job Type: Full-time
 
 | Home Page                                                                                                                          | Job Recommendations                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="1907" height="963" alt="image" src="https://github.com/user-attachments/assets/0e4c0d02-1d7a-479c-9aca-5cf6acc64900" />| <img width="1906" height="955" alt="image" src="https://github.com/user-attachments/assets/dfb03690-55cf-444c-81e6-4a10e92308b8" /> |
+| <img width="1906" height="955" alt="image" src="https://github.com/user-attachments/assets/0e4c0d02-1d7a-479c-9aca-5cf6acc64900" />| <img width="1906" height="955" alt="image" src="https://github.com/user-attachments/assets/75cf52cf-525f-4dca-a2ac-7a8b104e6638" /> |
 
 ---
 
